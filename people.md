@@ -4,7 +4,7 @@ title: People
 ---
 
 ### Group leader
-![placeholder](http://placehold.it/200x200 "Small example image") Angela Goncalves
+Angela ![placeholder](http://placehold.it/200x200 "Small example image") Angela Goncalves
 
 ### Staff scientists
 ![placeholder](http://placehold.it/200x200 "Small example image") Nina Schneider
