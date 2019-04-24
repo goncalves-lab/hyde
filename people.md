@@ -3,15 +3,16 @@ layout: page
 title: People
 ---
 
-| | |
+| ### Group leader | |
 :-------------------------:|:-------------------------:
 ![](http://placehold.it/150x150)  |  Angela Goncalves
+| ### Staff scientists | |
+![placeholder](http://placehold.it/150x150 "Small example image") | Nina Schneider
 
-### Group leader
 Angela ![placeholder](http://placehold.it/150x150 "Small example image") Angela Goncalves
 
 ### Staff scientists
-![placeholder](http://placehold.it/150x150 "Small example image") Nina Schneider
+
 
 ### Postdoctoral fellows
 ![placeholder](http://placehold.it/150x150 "Small example image") Luca Penso-Dolfin
