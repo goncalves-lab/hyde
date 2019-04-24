@@ -37,5 +37,7 @@ title: Publications
 
 ### Published independently by group members
 
-* Baser A, Skabkin M, Kleber S, Dang Y, Gülcüler Balta G, Kalamakis G, Göpferich M, Carvajal Ibañez D, _Schefzik R_, Santos Lopez A, Llorens Bobadilla E, Schultz C, Fischer B and Martin-Villalba A. (2019) Onset of differentiation is post-transcriptionally controlled in adult neural stem cells, Nature 566:100-104. doi: 10.1038/s41586-019-0888-x.
+* Baser A, Skabkin M, Kleber S, Dang Y, Gülcüler Balta G, Kalamakis G, Göpferich M, Carvajal Ibañez D, Schefzik R, Santos Lopez A, Llorens Bobadilla E, Schultz C, Fischer B and Martin-Villalba A. (2019) Onset of differentiation is post-transcriptionally controlled in adult neural stem cells, Nature 566:100-104. doi: 10.1038/s41586-019-0888-x.
+
+* Zorea J, Prasad M, Cohen L, Li N, Schefzik R, Ghosh S, Rotblat B, Brors B, Elkabets M. (2018) IGF1R upregulation confers resistance to isoform-specific inhibitors of PI3K in PIK3CA-driven ovarian cancer. Cell Death Dis.
 
