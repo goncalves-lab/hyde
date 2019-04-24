@@ -5,7 +5,7 @@ title: People
 
 | *Group leader* | |
 :-------------------------:|:-------------------------:
-![](http://placehold.it/150x150)  |  [Angela Goncalves](https://goncalves-lab.github.io/angela/)
+![](http://placehold.it/150x150)  |  [Angela Goncalves](https://goncalves-lab.github.io/_old_posts/angela/)
 | *Staff scientists* | |
 ![placeholder](http://placehold.it/150x150 "Small example image") | Nina Schneider
 | *Postdoctoral fellows* | |
