@@ -7,8 +7,8 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            Goncalves-lab
-tagline:          'Goncalves-lab'
+title:            Goncalves lab
+tagline:          'Goncalves lab'
 description:      'Website of the Somatic Evolution and Early Detection research group at the DKFZ in Heidelberg, Germany'
 url:              http://goncalves-lab.github.io/
 baseurl:          /
