@@ -7,6 +7,17 @@ Our group aims to understand the processes of somatic and regulatory genome evol
 
 ### Research
 
+It has long been known that mutant clonal evolution by natural selection plays a defining role in the development of cancer. However, this process has been challenging to study in detail prior to the development of cost-effective high-throughput Next-Generation Sequencing. Using NGS, alterations present in even very small proportions of cells can now be detected. Modelling these alterations can in turn improve our understanding of the emergence of mutant alleles within tissues. Moreover, recently developed single cell RNA sequencing methods can be used to identify somatic mutations in individual cells and assess their effects on the expression of genes, an approach that has been highly informative in the interpretation of the effects of germline variation. A major component of our work is therefore to interpret and develop novel methods for the analysis of NGS data in the context of cancer evolution.
+
+Another component of our work is the more general understanding and prediction of genotype to phenotype relationships. For this, we contribute through the development of computational methods for high-dimensional data, including tools for feature selection and differential testing.
+
+### Projects
+
+* Somatic mutations in normal and pre-malignant human gynaecological tissues
+The analysis of longitudinally acquired non-cancerous tissue proffers an effective means for studying the evolution of somatic mutations. Our research uses human gynaecological tissue as a model system because of its ease of acquisition from healthy individuals over time and because of its medical importance. In interdisciplinary research projects with cancer biologists and clinicians, we aim to analyse high-depth DNA and single-cell RNA sequencing data from tissue samples to achieve a quantitative understanding of somatic evolution.
+* Ageing of reproductive mouse tissues
+* Methods development for single-cell RNA-seq
+            
 Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
 
 * Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
