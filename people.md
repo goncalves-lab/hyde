@@ -3,6 +3,7 @@ layout: page
 title: People
 ---
 
+| | |
 :-------------------------:|:-------------------------:
 ![](http://placehold.it/150x150)  |  Angela Goncalves
 
