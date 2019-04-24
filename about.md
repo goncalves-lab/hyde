@@ -9,9 +9,11 @@ Another component of our work is the more general understanding and prediction o
 
 ### Projects
 
-* Somatic mutations in normal and pre-malignant human gynaecological tissues
-* Ageing of reproductive mouse tissues
-* Methods development for single-cell RNA-seq
+Some of our projects:
+* Dynamics of somatic mutation in normal and pre-malignant human gynaecological tissues
+* Comparative genomics of female reproductive tissue ageing
+* Methods development for single-cell RNA-seq: KIRid/KIRquant, single-cell differential distributions, lineage tracing. 
+* Effects of common genetic variants on iPSC epigenomes. 
 
 
 
