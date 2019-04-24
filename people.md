@@ -3,6 +3,10 @@ layout: page
 title: People
 ---
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](http://placehold.it/150x150)  |  ![](http://placehold.it/150x150)
+
 ### Group leader
 Angela ![placeholder](http://placehold.it/150x150 "Small example image") Angela Goncalves
 
