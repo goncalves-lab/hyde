@@ -27,7 +27,7 @@ title: Publications
 
 *	Goncalves A.#, Leigh-Brown S.#, Thybert D., Stefflova K., Turro E., Flicek P., Brazma A., Odom D.T. and Marioni J.C. (2012) Compensatory cis-trans regulation dominates the evolution of mouse gene expression. Genome Research 22 (12), 2376-2384. 
 
-*	Schmidt D.*, Schwalie P.C.*, Wilson M.D., Ballester B., Goncalves A., Kutter C., Brown G.D., Marshall A., Flicek P., and Odom D.T. (2012) Waves of retrotransposon expansion remodel genome organization and CTCF binding in multiple mammalian lineages. Cell 148 (1), 335-348. 
+*	Schmidt D.#, Schwalie P.C.#, Wilson M.D., Ballester B., Goncalves A., Kutter C., Brown G.D., Marshall A., Flicek P., and Odom D.T. (2012) Waves of retrotransposon expansion remodel genome organization and CTCF binding in multiple mammalian lineages. Cell 148 (1), 335-348. 
 
 *	Kutter C., Watt S., Stefflova K., Wilson M.D., Goncalves A., Ponting C.P., Odom D.T. and Marques A.C. (2012) Rapid turnover of long noncoding RNAs and the evolution of gene expression. PLOS genetics 8 (7), e1002841. 
 
@@ -35,7 +35,7 @@ title: Publications
 
 *	Lukk M., Kapushesky M., Nikkil J., Parkinson H., Goncalves A., Huber W., Ukkonen E. and Brazma A. (2010) A global map of human gene expression, Nature Biotechnology 28 (4), 322-324.
 
-### By other group members
+### Published independently by group members
 
-
+* Baser A, Skabkin M, Kleber S, Dang Y, Gülcüler Balta G, Kalamakis G, Göpferich M, Carvajal Ibañez D, _Schefzik R_, Santos Lopez A, Llorens Bobadilla E, Schultz C, Fischer B and Martin-Villalba A. (2019) Onset of differentiation is post-transcriptionally controlled in adult neural stem cells, Nature 566:100-104. doi: 10.1038/s41586-019-0888-x.
 
