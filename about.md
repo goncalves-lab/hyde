@@ -1,30 +1,19 @@
 ---
 layout: page
-title: About
+title: Research
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+### Research
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+It has long been known that mutant clonal evolution by natural selection plays a defining role in the development of cancer. However, this process has been challenging to study in detail prior to the development of cost-effective high-throughput Next-Generation Sequencing. Using NGS, alterations present in even very small proportions of cells can now be detected. Modelling these alterations can in turn improve our understanding of the emergence of mutant alleles within tissues. Moreover, recently developed single cell RNA sequencing methods can be used to identify somatic mutations in individual cells and assess their effects on the expression of genes, an approach that has been highly informative in the interpretation of the effects of germline variation. A major component of our work is therefore to interpret and develop novel methods for the analysis of NGS data in the context of cancer evolution.
 
-There are currently two themes built on Poole:
+Another component of our work is the more general understanding and prediction of genotype to phenotype relationships. For this, we contribute through the development of computational methods for high-dimensional data, including tools for feature selection and differential testing.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+### Projects
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+* Somatic mutations in normal and pre-malignant human gynaecological tissues
+* Ageing of reproductive mouse tissues
+* Methods development for single-cell RNA-seq
 
-## Setup
 
-Some fun facts about the setup of this project include:
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
