@@ -10,4 +10,6 @@ title: About
 
 <p>Also during her postdoc she was awarded a Pump Priming grant by the Cambridge Cancer Centre Early Detection Programme to establish the use of menstrual fluid as a model system to track somatic mutations in normal tissues over time.</p>
 
-<p>Her current research interests are in modelling the evolution of somatic mutant clones in normal and pre-malignant tissues, with the view of developing methods for early detection of cancer, and to continue to develop novel bioinformatics methods for the analysis of data from emerging sequencing technologies such as single-cell RNA-sequencing. She remains a Visiting Scientist at the Wellcome Trust Sanger Institute and a Senior Member of Darwin College of the University of Cambridge.</p>
+<p>Her current research interests are in modelling the evolution of somatic mutant clones in normal and pre-malignant tissues, with the view of developing methods for early detection of cancer, and to continue to develop novel bioinformatics methods for the analysis of data from emerging sequencing technologies such as single-cell RNA-sequencing.</p> 
+
+<p>She remains a Visiting Scientist at the Wellcome Trust Sanger Institute and a Senior Member of Darwin College of the University of Cambridge.</p>
