@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: About
 ---
 Angela Goncalves is a Junior Group Leader at DKFZ since the beginning of 2018. 
