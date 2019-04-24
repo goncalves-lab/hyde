@@ -3,6 +3,9 @@ layout: post
 title: Example content
 ---
 
+<p class="message">
+  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+</p>
 
 <div class="message">
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
