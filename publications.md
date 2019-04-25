@@ -5,7 +5,7 @@ title: Publications
 
 ### Methods/software
 
-* Vento-Tormo R., Efremova M., Turco M.Y., Botting R.A., Meyer K.B., Park J., Stephenson E., Payne R.P., Goncalves A., Zou A., Henriksson J., Wood L., Lisgo S., Filby A., Wright G.J., Stubbington M.J.T., Haniffa M., Moffett A., Teichmann S.A. (2018). Reconstructing the human first trimester fetal-maternal interface using single cell transcriptomics. Nature. 546, 370-375.
+* Reconstructing the human first trimester fetal-maternal interface using single cell transcriptomics. Nature. 546, 370-375 **2018** Vento-Tormo R., Efremova M., Turco M.Y., Botting R.A., Meyer K.B., Park J., Stephenson E., Payne R.P., Goncalves A., Zou A., Henriksson J., Wood L., Lisgo S., Filby A., Wright G.J., Stubbington M.J.T., Haniffa M., Moffett A., Teichmann S.A.
 
 *	Turro E., Su S., Goncalves A., Coin L.J.M, Richardson S. and Lewin A. (2011) Haplotype and isoform specific expression estimation using multi-mapping RNA-seq reads. Genome Biology 12 (2), 1. 
 
