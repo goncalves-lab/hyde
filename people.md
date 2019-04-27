@@ -14,8 +14,10 @@ title: People
 | *PhD students* | |
 <img src="https://www.dkfz.de/en/somatische-evolution-frueherkennung/Images/Li.2.jpg" data-canonical-src="https://www.dkfz.de/en/somatische-evolution-frueherkennung/Images/Li.2.jpg" width="150" height="195" /> | Nan Li
 | *Graduate students* | |
-![placeholder](http://placehold.it/150x150 "Small example image") | Kinam Gupta
 ![placeholder](http://placehold.it/150x150 "Small example image") | Abir Hussein 
 
-
+# Previous lab members
+| | |
+:-------------------------:|:-------------------------:
+Kinam Gupta | bioinformatics intern April 2019
 
