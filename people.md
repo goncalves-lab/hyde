@@ -17,7 +17,8 @@ title: People
 ![placeholder](http://placehold.it/150x150 "Small example image") | Abir Hussein 
 
 # Previous lab members
-| | |
+
+| Name | Position |
 :-------------------------:|:-------------------------:
 Kinam Gupta | bioinformatics intern April 2019
 
