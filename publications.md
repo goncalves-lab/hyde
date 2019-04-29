@@ -5,11 +5,11 @@ title: Publications
 
 ### Methods/software
 
-* Vento-Tormo R., Efremova M., Turco M.Y., Botting R.A., Meyer K.B., Park J., Stephenson E., Payne R.P., Goncalves A., Zou A., Henriksson J., Wood L., Lisgo S., Filby A., Wright G.J., Stubbington M.J.T., Haniffa M., Moffett A., Teichmann S.A. (2018). Reconstructing the human first trimester fetal-maternal interface using single cell transcriptomics. Nature. 546, 370-375.
+* Vento-Tormo R., Efremova M., Turco M.Y., Botting R.A., Meyer K.B., Park J., Stephenson E., Payne R.P., Goncalves A., Zou A., Henriksson J., Wood L., Lisgo S., Filby A., Wright G.J., Stubbington M.J.T., Haniffa M., Moffett A., Teichmann S.A. (2018). [Reconstructing the human first trimester fetal-maternal interface using single cell transcriptomics](https://doi.org/10.1038/s41586-018-0698-6). Nature. 546, 370-375.
 
-*	Turro E., Su S., Goncalves A., Coin L.J.M, Richardson S. and Lewin A. (2011) Haplotype and isoform specific expression estimation using multi-mapping RNA-seq reads. Genome Biology 12 (2), 1. 
+*	Turro E., Su S., Goncalves A., Coin L.J.M, Richardson S. and Lewin A. (2011) [Haplotype and isoform specific expression estimation using multi-mapping RNA-seq reads](https://doi.org/10.1186/gb-2011-12-2-r13). Genome Biology 12 (2), 1. 
 
-*	Goncalves A., Tikhonov A., Brazma A. and Kapushesky M. (2011) A pipeline for RNA-seq data processing and quality assessment. Bioinformatics 27 (6), 867-869. 
+*	Goncalves A., Tikhonov A., Brazma A. and Kapushesky M. (2011) [A pipeline for RNA-seq data processing and quality assessment](https://doi.org/10.1093/bioinformatics/btr012). Bioinformatics 27 (6), 867-869. 
 
 ### Population genomics
 
