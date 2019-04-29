@@ -3,7 +3,7 @@ layout: page
 title: Teaching and Talks
 ---
 
-Angela often gives research talks and teaches in specialised courses on linear mixed models and analysis of high-throughput sequencing data, most recently:
+Angela often gives research talks and teaches in specialised courses on linear models and analysis of high-throughput sequencing data, most recently:
 
 ### Talks
 
