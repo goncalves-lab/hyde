@@ -20,6 +20,6 @@ Angela often teaches in specialised courses on (generalised) linear mixed models
 
 # Talks
 
-* [*Upcoming Nov 2019* Precision Health: Molecular Basis, Technology and Digital Health](https://www.embl.de/training/events/2019/PHE19-01/index.html)
+* *Upcoming Nov 2019* [Precision Health: Molecular Basis, Technology and Digital Health](https://www.embl.de/training/events/2019/PHE19-01/index.html)
 * [SCOG Workshop Computational Single Cell Genomics
 March 2019, Munich](https://www.youtube.com/watch?v=Jy-UT3Ixm7k&feature=youtu.be)
