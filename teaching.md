@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Teaching
+title: Teaching and Talks
 ---
+
+# Teaching
 
 Angela often teaches in specialised courses on (generalised) linear mixed models and analysis of high-throughput sequencing data, most recently:
 
@@ -15,3 +17,9 @@ Angela often teaches in specialised courses on (generalised) linear mixed models
 * EMBO Course on Analysis and Informatics of Transcriptomics Data, EMBL-EBI, Cambridge, UK (2010)
 * Next-generation Sequencing for Biomedical Omics, Castel Ivano, Italy (2010) 
 * 13th International MGED Meeting, Boston, Massachusetts, USA (2010)
+
+# Talks
+
+* [*Upcoming Nov 2019* Precision Health: Molecular Basis, Technology and Digital Health](https://www.embl.de/training/events/2019/PHE19-01/index.html)
+* [SCOG Workshop Computational Single Cell Genomics
+March 2019, Munich](https://www.youtube.com/watch?v=Jy-UT3Ixm7k&feature=youtu.be)
