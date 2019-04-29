@@ -13,9 +13,10 @@ title: Publications
 
 ### Population genomics
 
-* Schwartzentruber J., Foskolou S., Kilpinen H., Rodrigues J., Alasoo K., Knights A.J., Patel M., Goncalves A., Ferreira R., Benn C.L., Wilbrey A., Bictash M., Impey E., Cao L., Lainez S., Loucif AJ., Whiting P.J., HIPSCI Consortium, Gutteridge A. and Gaffney D. (2017) Molecular and functional variation in iPSC-derived sensory neurons. Nature Genetics. 50, 54-61. 
+* Schwartzentruber J., Foskolou S., Kilpinen H., Rodrigues J., Alasoo K., Knights A.J., Patel M., Goncalves A., Ferreira R., Benn C.L., Wilbrey A., Bictash M., Impey E., Cao L., Lainez S., Loucif AJ., Whiting P.J., HIPSCI Consortium, Gutteridge A. and Gaffney D. (2017) [Molecular and functional variation in iPSC-derived sensory neurons](https://doi.org/10.1038/s41588-017-0005-8
+). Nature Genetics. 50, 54-61. 
 
-* Kilpinen H.#, Goncalves A.#, Leha A., Afzal V., Bensaddek D., Casale F.P., Danecek P., Harrison P., McCarthy D., McCarthy S., Meleckyte R., Memari Y., Moens N., Soares F., Streeter I., Agu C., Alderton A., Amatya S., Nelson R., Harper S., Patel M., Clarke L., Halai R., Kirton C., Kolb-Kokocinski A., Beales P., Birney E., Danovi D., Lamond A., Ouwehand W., Vallier L., Watt F., Durbin R., Stegle O. and Gaffney D. (2017) Common genetic variation drives molecular heterogeneity in human IPSCs. Nature 546 (7658), 370. 
+* Kilpinen H.#, Goncalves A.#, Leha A., Afzal V., Bensaddek D., Casale F.P., Danecek P., Harrison P., McCarthy D., McCarthy S., Meleckyte R., Memari Y., Moens N., Soares F., Streeter I., Agu C., Alderton A., Amatya S., Nelson R., Harper S., Patel M., Clarke L., Halai R., Kirton C., Kolb-Kokocinski A., Beales P., Birney E., Danovi D., Lamond A., Ouwehand W., Vallier L., Watt F., Durbin R., Stegle O. and Gaffney D. (2017) [Common genetic variation drives molecular heterogeneity in human IPSCs](https://doi.org/10.1038/nature22403). Nature 546 (7658), 370. 
 
 ### Gene expression regulation 
 
