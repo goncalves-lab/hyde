@@ -20,9 +20,9 @@ title: Publications
 
 ### Gene expression regulation 
 
-*	Leigh-Brown S.#, Goncalves A.#, Thybert D., Stefflova K., Watt S., Odom D.T. and Marioni J.C. (2015) Regulatory Divergence of Transcript Isoforms in a Mammalian Model System. PLOS ONE 10 (9), e0137367. 
+*	Leigh-Brown S.#, Goncalves A.#, Thybert D., Stefflova K., Watt S., Odom D.T. and Marioni J.C. (2015) [Regulatory Divergence of Transcript Isoforms in a Mammalian Model System](https://doi.org/10.1371/journal.pone.0137367). PLOS ONE 10 (9), e0137367. 
 
-*	Latos P.A., Goncalves A., Oxley D., Mohammed H., Turro E. and Hemberger M. (2015) Fgf and Esrrb integrate epigenetic and transcriptional networks that regulate self-renewal of Trophoblast Stem Cells. Nature Communications 6. 
+*	Latos P.A., Goncalves A., Oxley D., Mohammed H., Turro E. and Hemberger M. (2015) [Fgf and Esrrb integrate epigenetic and transcriptional networks that regulate self-renewal of Trophoblast Stem Cells](https://doi.org/10.1038/ncomms8776). Nature Communications 6. 
 
 *	Ballester B.#, Medina-Rivera A., Schmidt D., Gonzalez-Porta M., Carlucci M., Chen X., Chessman K., Faure A.J., Funnell A., Goncalves A., Kutter C., Lukk M., Menon S., McLaren W.M., Stefflova K., Watt S., Weirauch M.T., Crossley M., Marioni J.C., Odom D.T., Flicek P. and Wilson M.D.# (2014) Multi-species, multi-transcription factor binding highlights conserved control of tissue- specific biological pathways. eLife 3, e02626. 
 
