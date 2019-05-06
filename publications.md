@@ -24,17 +24,17 @@ title: Publications
 
 *	Latos P.A., Goncalves A., Oxley D., Mohammed H., Turro E. and Hemberger M. (2015) [Fgf and Esrrb integrate epigenetic and transcriptional networks that regulate self-renewal of Trophoblast Stem Cells](https://doi.org/10.1038/ncomms8776). Nature Communications 6. 
 
-*	Ballester B.#, Medina-Rivera A., Schmidt D., Gonzalez-Porta M., Carlucci M., Chen X., Chessman K., Faure A.J., Funnell A., Goncalves A., Kutter C., Lukk M., Menon S., McLaren W.M., Stefflova K., Watt S., Weirauch M.T., Crossley M., Marioni J.C., Odom D.T., Flicek P. and Wilson M.D.# (2014) Multi-species, multi-transcription factor binding highlights conserved control of tissue- specific biological pathways. eLife 3, e02626. 
+*	Ballester B.#, Medina-Rivera A., Schmidt D., Gonzalez-Porta M., Carlucci M., Chen X., Chessman K., Faure A.J., Funnell A., Goncalves A., Kutter C., Lukk M., Menon S., McLaren W.M., Stefflova K., Watt S., Weirauch M.T., Crossley M., Marioni J.C., Odom D.T., Flicek P. and Wilson M.D.# (2014) [Multi-species, multi-transcription factor binding highlights conserved control of tissue- specific biological pathways](https://doi.org/10.7554/eLife.02626). eLife 3, e02626. 
 
-*	Goncalves A.#, Leigh-Brown S.#, Thybert D., Stefflova K., Turro E., Flicek P., Brazma A., Odom D.T. and Marioni J.C. (2012) Compensatory cis-trans regulation dominates the evolution of mouse gene expression. Genome Research 22 (12), 2376-2384. 
+*	Goncalves A.#, Leigh-Brown S.#, Thybert D., Stefflova K., Turro E., Flicek P., Brazma A., Odom D.T. and Marioni J.C. (2012) [Compensatory cis-trans regulation dominates the evolution of mouse gene expression](https://doi.org/10.1101/gr.142281.112). Genome Research 22 (12), 2376-2384. 
 
-*	Schmidt D.#, Schwalie P.C.#, Wilson M.D., Ballester B., Goncalves A., Kutter C., Brown G.D., Marshall A., Flicek P., and Odom D.T. (2012) Waves of retrotransposon expansion remodel genome organization and CTCF binding in multiple mammalian lineages. Cell 148 (1), 335-348. 
+*	Schmidt D.#, Schwalie P.C.#, Wilson M.D., Ballester B., Goncalves A., Kutter C., Brown G.D., Marshall A., Flicek P., and Odom D.T. (2012) [Waves of retrotransposon expansion remodel genome organization and CTCF binding in multiple mammalian lineages](https://doi.org/10.1016/j.cell.2011.11.058). Cell 148 (1), 335-348. 
 
-*	Kutter C., Watt S., Stefflova K., Wilson M.D., Goncalves A., Ponting C.P., Odom D.T. and Marques A.C. (2012) Rapid turnover of long noncoding RNAs and the evolution of gene expression. PLOS genetics 8 (7), e1002841. 
+*	Kutter C., Watt S., Stefflova K., Wilson M.D., Goncalves A., Ponting C.P., Odom D.T. and Marques A.C. (2012) [Rapid turnover of long noncoding RNAs and the evolution of gene expression](https://doi.org/10.1371/journal.pgen.1002841). PLOS genetics 8 (7), e1002841. 
 
-*	Kutter C.#, Brown G.D.#, Goncalves A., Wilson M.D., Watt S., Brazma A., White R.J. and Odom D.T. (2011) Pol III binding in six mammals shows conservation among amino acid isotypes despite divergence among tRNA genes. Nature Genetics 43 (10), 948-955. 
+*	Kutter C.#, Brown G.D.#, Goncalves A., Wilson M.D., Watt S., Brazma A., White R.J. and Odom D.T. (2011) [Pol III binding in six mammals shows conservation among amino acid isotypes despite divergence among tRNA genes](https://doi.org/10.1038/ng.906). Nature Genetics 43 (10), 948-955. 
 
-*	Lukk M., Kapushesky M., Nikkil J., Parkinson H., Goncalves A., Huber W., Ukkonen E. and Brazma A. (2010) A global map of human gene expression, Nature Biotechnology 28 (4), 322-324.
+*	Lukk M., Kapushesky M., Nikkil J., Parkinson H., Goncalves A., Huber W., Ukkonen E. and Brazma A. (2010) [A global map of human gene expression](https://doi.org/10.1038/nbt0410-322). Nature Biotechnology 28 (4), 322-324.
 
 ### Published independently by group members
 
