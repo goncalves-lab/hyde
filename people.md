@@ -5,7 +5,7 @@ title: People
 
 | *Group leader* | |
 :-------------------------:|:-------------------------:
-<img src="IMG_9654 copy.jpg" data-canonical-src="hIMG_9654 copy.jpg" width="150" height="195" /> |  [Angela Goncalves](https://goncalves-lab.github.io/angela/)
+<img src="IMG_9654 copy.jpg" data-canonical-src="IMG_9654 copy.jpg" width="150" height="195" /> |  [Angela Goncalves](https://goncalves-lab.github.io/angela/)
 <img src="https://www.dkfz.de/en/somatische-evolution-frueherkennung/Images/Goncalves-Filimon-Angela_8.jpg" data-canonical-src="https://www.dkfz.de/en/somatische-evolution-frueherkennung/Images/Goncalves-Filimon-Angela_8.jpg" width="150" height="195" /> |  [Angela Goncalves](https://goncalves-lab.github.io/angela/)
 | *Staff scientists* | |
 ![placeholder](http://placehold.it/150x150 "Small example image") | Nina Schneider
