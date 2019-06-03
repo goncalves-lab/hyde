@@ -17,7 +17,7 @@ title: People
 | *Graduate students* | |
 ![placeholder](http://placehold.it/150x150 "Small example image") | Abir Hussein 
 | *Interns* | |
-![placeholder](http://placehold.it/150x150 "Small example image") | Julian Flesch
+![placeholder](http://placehold.it/150x150 "Small example image") | [Julian Flesch](https://github.com/JulianFlesch)
 
 # Previous lab members
 
