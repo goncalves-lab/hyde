@@ -16,6 +16,8 @@ title: People
 ![placeholder](http://placehold.it/150x150 "Small example image") | Leo Förster
 | *Graduate students* | |
 ![placeholder](http://placehold.it/150x150 "Small example image") | Abir Hussein 
+| *Interns* | |
+![placeholder](http://placehold.it/150x150 "Small example image") | Julian Flesch
 
 # Previous lab members
 
