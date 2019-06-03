@@ -23,3 +23,9 @@ Angela often gives research talks and teaches in specialised courses on linear m
 * Next-generation Sequencing for Biomedical Omics, Castel Ivano, Italy (2010) 
 * 13th International MGED Meeting, Boston, Massachusetts, USA (2010)
 
+<ol>
+<li>
+<p>2014-2015: Graduate course on (generalised) linear (mixed) models in R
+FCDEF, University of Coimbra (2014-2015)</p>
+</li>
+</ol>
