@@ -15,7 +15,8 @@ title: People
 <img src="https://www.dkfz.de/en/somatische-evolution-frueherkennung/Images/Li.2.jpg" data-canonical-src="https://www.dkfz.de/en/somatische-evolution-frueherkennung/Images/Li.2.jpg" width="150" height="195" /> | Nan Li
 ![placeholder](http://placehold.it/150x150 "Small example image") | Leo Förster
 | *Graduate students* | |
-![placeholder](http://placehold.it/150x150 "Small example image") | Abir Hussein 
+![placeholder](http://placehold.it/150x150 "Small example image") | Abir Hussein (Erasmus student)
+![placeholder](http://placehold.it/150x150 "Small example image") | Evelin Aasna (Erasmus student)
 | *Interns* | |
 ![placeholder](http://placehold.it/150x150 "Small example image") | [Julian Flesch](https://github.com/JulianFlesch)
 
