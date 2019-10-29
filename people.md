@@ -22,7 +22,7 @@ title: People
 :-------------------------:|:-------------------------:
 Kinam Gupta | bioinformatics intern April 2019
 [Julian Flesch](https://github.com/JulianFlesch) | intern 2019
-Abir Hussein | Erasmus studen 2019
+Abir Hussein | Erasmus student 2019
 Evelin Aasna | Erasmus student 2019
 
 
