@@ -13,7 +13,8 @@ title: People
 <img src='{{"/public/Portrait_Ivana_071_reduced_01_ccaf38f4b1.jpg" | absolute_url}}' width="150" height="195" /> | Ivana Winkler
 | *PhD students* | |
 <img src="https://www.dkfz.de/en/somatische-evolution-frueherkennung/Images/Li.2.jpg" data-canonical-src="https://www.dkfz.de/en/somatische-evolution-frueherkennung/Images/Li.2.jpg" width="150" height="195" /> | Nan Li
-![placeholder](http://placehold.it/150x150 "Small example image") | Leo Förster
+<img src="https://www.dkfz.de/de/neurobiologie-von-gehirntumoren/LeoFoerster.jpg" data-canonical-src="https://www.dkfz.de/de/neurobiologie-von-gehirntumoren/LeoFoerster.jpg" width="150" height="195" /> | Leo Förster
+
 | *Master students* | |
 <img src='{{"/public/IMG_20180718_173621.jpg" | absolute_url}}' width="150" height="195" /> | | Francisco Javier Botey Bataller
 
