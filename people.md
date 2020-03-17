@@ -14,6 +14,8 @@ title: People
 | *PhD students* | |
 <img src="https://www.dkfz.de/en/somatische-evolution-frueherkennung/Images/Li.2.jpg" data-canonical-src="https://www.dkfz.de/en/somatische-evolution-frueherkennung/Images/Li.2.jpg" width="150" height="195" /> | Nan Li
 ![placeholder](http://placehold.it/150x150 "Small example image") | Leo Förster
+| *Master students* | |
+<img src='{{"/public/IMG_20180718_173621.jpg" | absolute_url}}' width="150" height="195" /> | | Francisco Javier Botey Bataller
 
 # Previous lab members
 
