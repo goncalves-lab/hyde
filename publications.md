@@ -5,7 +5,7 @@ title: Publications
 
 ### Methods/software
 
-* Schefzik R., Flesch J., Goncalves A. (2020). [Fast identification of differential distributions in single-cell RNA-sequencing data with waddR](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab226/6207964). Bioinformatics
+* Schefzik R., Flesch J., Goncalves A. (2020). [Fast identification of differential distributions in single-cell RNA-sequencing data with waddR](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab226/6207964). Bioinformatics, btab226.
 
 * Vento-Tormo R., Efremova M., Turco M.Y., Botting R.A., Meyer K.B., Park J., Stephenson E., Payne R.P., Goncalves A., Zou A., Henriksson J., Wood L., Lisgo S., Filby A., Wright G.J., Stubbington M.J.T., Haniffa M., Moffett A., Teichmann S.A. (2018). [Reconstructing the human first trimester fetal-maternal interface using single cell transcriptomics](https://doi.org/10.1038/s41586-018-0698-6). Nature. 546, 370-375.
 
