@@ -13,6 +13,5 @@ Candidates interested in internship, MSc theses or Postdoctoral positions please
 
 ### Open positions
 
-* [Postdoc in Computational Biology](https://jobs.dkfz.de/en/jobs/21164/postdoctoral-fellow-in-computational-biology): A position is open for a Postdoc joint between Dr. Angela Goncalves and Dr. Duncan Odom's comparative genomics lab.
 * International PhD Program: PhD positions are available twice a year via the [DKFZ International PhD program](https://www.dkfz.de/en/phd-program/).
 * Postdoctoral Fellowships: Postdoctoral fellowships are [available](https://www.dkfz.de/en/postdoc-program/Postdoctoral_fellowship.html?m=1548669238) via the DKFZ Postdoctoral program for young scientists within 2 years of their PhD.
