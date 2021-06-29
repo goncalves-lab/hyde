@@ -14,7 +14,7 @@ title: People
 | *PhD students* | |
 <img src="https://www.dkfz.de/de/neurobiologie-von-gehirntumoren/LeoFoerster.jpg" data-canonical-src="https://www.dkfz.de/de/neurobiologie-von-gehirntumoren/LeoFoerster.jpg" width="150" height="195" /> | Leo Förster
 | *Interns* | |
-<img src='{{"/public/per.jpg" | absolute_url}}' width="150" height="195" /> | Perrine Lacour
+<img src='{{"/public/Photo_PerrineLacour.png" | absolute_url}}' width="150" height="195" /> | Perrine Lacour
 <img src='{{"/public/per.jpg" | absolute_url}}' width="150" height="195" /> | Nicolas Le Bel
 
 # Previous lab members
