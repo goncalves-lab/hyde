@@ -5,6 +5,8 @@ title: Publications
 
 ### Methods/software
 
+* Schefzik R., Flesch J., Goncalves A. (2020). [Fast identification of differential distributions in single-cell RNA-sequencing data with waddR](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab226/6207964). Bioinformatics
+
 * Vento-Tormo R., Efremova M., Turco M.Y., Botting R.A., Meyer K.B., Park J., Stephenson E., Payne R.P., Goncalves A., Zou A., Henriksson J., Wood L., Lisgo S., Filby A., Wright G.J., Stubbington M.J.T., Haniffa M., Moffett A., Teichmann S.A. (2018). [Reconstructing the human first trimester fetal-maternal interface using single cell transcriptomics](https://doi.org/10.1038/s41586-018-0698-6). Nature. 546, 370-375.
 
 *	Turro E., Su S., Goncalves A., Coin L.J.M, Richardson S. and Lewin A. (2011) [Haplotype and isoform specific expression estimation using multi-mapping RNA-seq reads](https://doi.org/10.1186/gb-2011-12-2-r13). Genome Biology 12 (2), 1. 
