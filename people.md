@@ -13,14 +13,14 @@ title: People
 <img src='{{"/public/Portrait_Ivana_071_reduced_01_ccaf38f4b1.jpg" | absolute_url}}' width="150" height="195" /> | Ivana Winkler
 | *PhD students* | |
 <img src="https://www.dkfz.de/de/neurobiologie-von-gehirntumoren/LeoFoerster.jpg" data-canonical-src="https://www.dkfz.de/de/neurobiologie-von-gehirntumoren/LeoFoerster.jpg" width="150" height="195" /> | Leo Förster
-
-| *Master students* | |
-<img src='{{"/public/IMG_20180718_173621.jpg" | absolute_url}}' width="150" height="195" /> | Francisco Javier Botey Bataller
+| *Interns* | |
+<img src='{{"/public/per.jpg" | absolute_url}}' width="150" height="195" /> | Perrine Lacour
 
 # Previous lab members
 
 | Name | Position |
 :-------------------------:|:-------------------------:
+Francisco Javier Botey Bataller | Master student 2020
 [Luca Penso-Dolfin](https://github.com/luca8651) | Postdoctoral Fellow
 Nan Li | PhD Student
 Roman Schefzik | Postdoctoral Fellow 2018-2019
