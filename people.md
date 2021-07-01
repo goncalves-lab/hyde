@@ -21,7 +21,7 @@ title: People
 
 | Name | Position |
 :-------------------------:|:-------------------------:
-Francisco Javier Botey Bataller | Master student 2020
+[Francisco Javier Botey Bataller](https://github.com/JaviBotey) | Master student 2020
 Nan Li | PhD Student 2020
 [Luca Penso-Dolfin](https://github.com/luca8651) | Postdoctoral Fellow 2019
 Roman Schefzik | Postdoctoral Fellow 2018-2019
